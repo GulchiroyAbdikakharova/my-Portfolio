@@ -1,0 +1,804 @@
+/* media 1065px- 1200px*/
+
+@media (min-width:1065px) and (max-width:1200px) {
+
+  .nav-link {
+      font-size: 20px;
+  }
+  
+  .header-text h1 {
+    font-size: 40px !important;
+}
+.header-text p {
+    font-size: 20px;
+    margin-top: 20px;
+}
+.date-item {
+    width: 33%;
+}
+.date-item h4 {
+    font-size: 20px;
+}
+.text-1 h5{
+    font-size: 15px;
+}
+.carousel-box h1 {
+    font-size: 30px;
+}
+.carousel-box img {
+    width: 180px;
+}
+
+.textt h1 {
+    font-size: 35px;
+}
+.card-style {
+    width: 23%;
+    height: 280px;
+    margin: 5px;
+    text-align : center;
+}
+.ball {
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.ball i {
+    font-size: 25px;
+}
+.text1 {
+    width: 100%;
+    height: 200px;
+    margin-top: 70px;
+}
+.carousel-inner {
+    width: 100%;
+    height: 80vh;
+}
+.card {
+    width: 30%;
+    height: 60vh;
+}
+.user-card h3 {
+    font-size: 20px;
+}
+.block-header {
+    margin-bottom: 50px;
+}
+.block-user {
+    margin: 60px 0;
+}
+.footer-card {
+    border: 1px solid transparent;
+}
+.footer-card h4 {
+    font-size: 20px;
+}
+hr {
+    margin: 40px 0;
+}
+}
+@media (min-width:850px) and (max-width:1064px) {
+    .nav-link {
+        font-size: 17px;
+    }
+    
+    .singup button {
+        width: 120px;
+        height: 40px;
+        padding: 5px;
+        font-size: 17px;
+    }
+    .block {
+        width: 100%;
+        height: 60vh;
+    }
+    .header-text {
+        height: 50vh;
+    }
+    .header-text h1 {
+        font-size: 34px !important;
+    }
+    .header-text p {
+        font-size: 20px;
+    }
+
+
+    .date-item > h4 {
+        font-size: 17px !important;
+    }
+    .card-style{
+        width: 23%;
+        height: 290px;
+        
+    }
+    .ball {
+        width: 70px;
+        height: 70px;
+        margin: 10px 80px;
+    }
+    .ball i {
+        font-size: 20px;
+    }
+    .text1 {
+        border: transparent;
+    }
+    .text1 h1 {
+        font-size: 30px;
+    }
+    .card-group {
+        width: 100%;
+        height: 60vh;
+    }
+    .card {
+        height: 45vh;
+    }
+    .card p {
+        font-size: 13px;
+    }
+    .card h3 {
+        font-size: 20px;
+    }
+    .carousel-pagination {
+        height: 10vh;
+    }
+   
+    .block-header h1 {
+        font-size: 30px;
+    }
+    .block-header button {
+        font-size: 16px;
+    }
+    
+    .footer-banner img {
+        height: 75vh;
+        top: -52px;
+        margin: 0 18px;
+    }
+    .footer-button {
+        font-size: 15px;
+    }
+   
+    .footer-card h4 {
+        font-size: 18px;
+    }
+    
+    .icon {
+        width: 70px;
+        height: 50px;
+        margin: 0;
+    }
+    .icon i {
+        font-size: 25px;
+        margin: 10px 0;
+    }
+}
+@media (min-width:769px) and (max-width:849px) {
+    .navbar {
+        width: 100%;
+        height: 100px;
+        margin: 0;
+    }
+  
+    .navbar a {
+        font-size: 17px !important;
+    }
+   
+    .nav-link {
+
+        font-size: 16px;
+        margin: 5px;
+    }
+    
+  
+    .singup button {
+        width: 100%;
+        height: 40px;
+        padding: 5px;
+        font-size: 16px;
+    }
+    .block {
+        width: 100%;
+        height: 60vh;
+        margin: 0;
+    }
+  
+    
+    .header-text h1 {
+      font-size: 23px !important;
+  }
+  .header-text p {
+      font-size: 17px;
+  }
+  .date-item {
+      width: 33%;
+  }
+  .date-item h4 {
+      font-size: 20px;
+  }
+  .text-1 h5{
+      font-size: 15px;
+  }
+  
+  .carousel-header h1 {
+    font-size: 30px;
+  }
+  .carousel-box {
+      width: 25%;
+      height: 350px;
+  }
+  .carousel-box img {
+      width: 100%;
+      height: 180px;
+  }
+  .carousel-box h1 {
+      font-size: 26px;
+  }
+ .carousel-box span {
+     width: 50px;
+     height: 40px;
+     margin: 5px;
+ }
+  
+  .textt h1 {
+      font-size: 30px;
+  }
+  
+  .card-style {
+      width: 23%;
+      height: 200px;
+      margin: 5px;
+ 
+  }
+  .card-style h4 {
+      font-size: 13px;
+  }
+  .ball {
+      width: 70px;
+      height: 70px;
+      margin: 20px 54px;
+  }
+  .ball i {
+      font-size: 19px;
+  }
+  .text1 {
+      width: 100%;
+      height: 150px;
+  }
+  .card-group {
+      width: 100%;
+      height: 60vh;
+  }
+  .card {
+      width: 30%;
+      height: 40vh;
+  }
+  .card p {
+      font-size: 10px;
+  }
+  .user-card {
+      height: 60px;
+  }
+  .user-card img {
+      width: 50px;
+      height: 50px;
+  }
+  .user-card h3 {
+      font-size: 13px;
+  }
+  .block-header {
+      margin-bottom: 50px;
+  }
+  .block-header h1 {
+      font-size: 26px;
+  }
+  .block-header button {
+      font-size: 17px;
+      width: 135px;
+  }
+  .block-user {
+      margin: 50px 0;
+  }
+ 
+ 
+  
+ .footer-banner img {
+     width: 60%;
+     height: 526px;
+     top: -105px;
+     margin: 0 17px;
+ }
+ .footer-input {
+     width: 90%;
+     height: 20px;
+     padding: 5px;
+ }
+ .footer-button {
+     font-size: 14px;
+ }
+ .cards {
+     width: 100%;
+     height: 50vh;
+ }
+ .footer-card {
+    width: 20%;
+    height: 200px;
+}
+.footer-card h4 {
+    font-size: 13px;
+}
+.logo-img {
+    width: 100%;
+    height: 60px;
+    
+}
+.logo-img img {
+    width: 50px;
+    height: 20px;
+}
+
+.icon {
+    width: 60px;
+    height: 40px;
+    margin: 0;
+}
+.icon i {
+    font-size: 25px;
+    padding: 5px;
+}
+  hr {
+      margin: 40px 0;
+  }
+  }
+@media (min-width: 577px) and (max-width:768px) {
+
+    .navbar{
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    .carousel-mobile {
+        display: block;
+    }
+    .nav-link {
+        font-size: 16px;
+        margin: 8px;
+    }
+    .singup {
+        width: 100%;
+        display: flex;
+       
+        justify-content: center;
+    }
+    .singup button {
+        width: 30%;
+        margin: 5px;
+    }
+    .block {
+        height: 50vh;
+        width: 100%;
+        margin-top: 30px;
+    }
+    
+    .header-text h1 {
+      font-size: 30px !important;
+  }
+    .header-text p {
+      font-size: 20px;
+      margin-top: 20px;
+  }
+  .date {
+      width: 70%;
+      height: 90px;
+  }
+    .date-item {
+      width: 33%;
+  }
+    .date-item h4 {
+      font-size: 15px; 
+  }
+    .text-1 h5{
+      font-size: 15px;
+  }
+  .cartalar {
+      width: 100%;
+      height: 80vh;
+      display: flex;
+      flex-wrap: wrap;
+  }
+  .carta {
+      width: 45%;
+      height: 160px;
+  }
+  .carta img {
+      width: 100%;
+      height: 100%;
+  }
+ 
+.none {
+    display: none;
+}
+  .carousel-header {
+      width: 100%;
+  }
+  .carousel-header h1 {
+      font-size: 30px;
+  }
+  
+  .carousel-box {
+      height: 65vh;
+      margin: 10px;
+  }
+  .carousel-box img {
+      width: 90%;
+      height: 70%;
+  }
+ 
+ .text-1 {
+     width: 100%;
+     margin: 10px;
+ }
+  .carousel-box span {
+    width: 50px;
+    height: 40px;
+    margin: 0 55px;
+}
+   .carousel-box h5 {
+       font-size: 18px;
+       margin:0 10px;
+   }
+  
+  .carousel-box h1 {
+      font-size: 30px;
+      margin:5px 10px;
+  }
+  .textt {
+    width: 100%;
+    height: 100px;
+    margin-top: 70px;
+}
+.textt h1 {
+    font-size: 26px;
+}
+.card-groupp {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+  .card-style {
+      width: 40%;
+      height: 200px;
+      margin: 10px 30px;
+      text-align : center;
+  }
+  .ball {
+      width: 70px;
+      height: 70px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
+      
+  }
+  .ball i {
+      font-size: 25px;
+  }
+  
+  .carousel-mobile {
+      display: none;
+  }
+  .text1 {
+      margin-top: 250px;
+  }
+  .text1 h1 {
+      font-size: 30px;
+  }
+  .card-group {
+      width: 100%;
+      margin: 0;
+      height: 45vh;
+  }
+  .card {
+      width: 20%;
+      height: 35vh;
+  }
+  .user-card h3 {
+      font-size: 30px;
+  }
+ 
+  .block-header h1 {
+      font-size: 30px;
+  }
+  .block-header button {
+      font-size: 18px;
+  }
+  .block-user {
+      height: 90vh;
+    
+  }
+  .style-user {
+      margin-bottom: 60px;
+  }
+  .style-user h3 {
+      font-size: 18px;
+  }
+  .style-user p {
+      font-size: 12px;
+  }
+  .footer-banner {
+      width: 100%;
+      height: 50vh;
+      margin-top: 50px;
+  }
+  .footer-banner img {
+      width: 60%;
+      height: 60vh;
+      top: -52px;
+      margin: 0 0 7px 22px;
+  }
+  .block-one h3 {
+      font-size: 25px;
+  }
+  .block-one p {
+      font-size: 15px;
+  }
+  
+  .footer-input input {
+      width: 65%;
+      height: 50px;
+  }
+  .footer-input button {
+      height: 50px;
+      font-size: 15px;
+  }
+  
+  .footer-card h4 {
+      font-size: 15px;
+  }
+  .footer-card p {
+      font-size: 10px;
+  }
+  .iconkalar {
+      height: 50px;
+  }
+  .icon {
+      margin: 0;
+      width: 70px;
+      height: 40px;
+  }
+  .icon i {
+      font-size: 17px;
+      padding: 5px;
+  }
+  hr {
+      margin: 40px 0;
+  }
+  }
+@media (max-width: 576px) {
+
+.nav-link {
+    font-size: 20px;
+}
+.navbar a {
+    font-size: 17px !important;
+}
+   
+.nav-link {
+
+    font-size: 16px;
+    margin: 5px;
+}
+    
+.singup {
+    border: 1px solid green;
+}
+.singup button {
+    width: 100%;
+    height: 40px;
+    padding: 5px;
+    font-size: 16px;
+}
+.block {
+    border: 1px solid green;
+    width: 100%;
+    height: 50vh;
+}
+.header-text h1 {
+    font-size: 18px !important;
+
+}
+.header-text p {
+    font-size: 12px;
+}
+.date {
+    border: 1px solid green;
+    width: 100%;
+    height: 65px;
+    left: 0;
+}
+.date-item {
+    width: 30%;
+}
+.date-item h4 {
+    font-size: 14px;
+}
+.date-item button {
+    height: 40px;
+    width: 70%;
+}
+.date-item i {
+    font-size: 20px;
+
+}
+.cartalar {
+      flex-wrap: wrap;
+      height: auto;
+      display: flex;
+}
+.carta {
+      width: 100%;
+      height: 150px!important;
+      margin: 1rem;
+
+
+}
+.carta img {
+      width: 100%;
+}
+
+.none {
+     display: none;
+}
+
+.carousel-header {
+   width: 100%;
+   height: 50px;
+}
+.carousel-header h1 {
+    font-size: 20px;
+}
+.carousel-header button {
+    width: 40px;
+    height: 40px;
+}
+.karusel {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.carousel-box {
+    height: 390px;
+    margin: 5px;
+}
+.box {
+    height: auto;
+}
+.textt {
+    height: 70px;
+}
+.textt h1 {
+      font-size: 23px;
+}
+.card-groupp {
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card-style {
+    width: 70%;
+    height: 250px;
+}
+.ball {
+      width: 70px;
+      height: 70px;
+}
+.ball i {
+      font-size: 23px;
+}
+.text1 {
+      width: 100%;
+      height: 120px;
+      margin-top: 70px;
+}
+.text1 h1 {
+    font-size: 24px;
+}
+.card-group {
+    height: auto;
+}
+ 
+.card {
+      width: 90%;
+      height: 300px;
+}
+ .bbb {
+     height: 50px;
+ }
+.bbb button {
+     width: 40px;
+     height: 40px;
+     font-size: 20px;
+ }
+
+.user-card h3 {
+      font-size: 20px;
+}
+
+.block-header h1 {
+    font-size: 20px;
+}
+.block-header button {
+    width: 120px;
+    height: 40px;
+    font-size: 13px;
+}
+.block-user {
+      height: auto;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+}
+.style-user {
+    transform: none;
+    top: 10px;
+    width: 80%;
+    margin: 10px;
+}
+.style-user h3 {
+    font-size: 20px;
+}
+.footer-banner {
+    border: 1px solid green;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
+.footer-banner img {
+    display: none;
+}
+.block-one {
+    width: 100%;
+    margin: 20px;
+    border: 1px solid green;
+}
+.block-one h3 {
+    font-size: 20px;
+}
+.block-one p {
+    font-size: 13px;
+}
+.footer-input {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-input input {
+    height: 40px;
+}
+.footer-input button {
+    height: 40px;
+    font-size: 14px;
+}
+.cards {
+    display: none;
+    height: 0;
+}
+.footer-card {
+    display: none;
+    height: 0;
+}
+.iconkalar {
+    display: none;
+    height: 0;
+}
+
+hr {
+      margin: 10px 0;
+}
+  }
